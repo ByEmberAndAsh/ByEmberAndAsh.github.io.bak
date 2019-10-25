@@ -9,7 +9,7 @@
                     <div class="team-member">
                         <h4>{{ network.label }}</h4>
                         <ul class="list-inline social-buttons">
-                            {% for network in social %}
+                            {% for network in site.social %}
                             <li>
                                 <a href="{{ network.url }}">
                                     <i class="fab fa-{{ network.title }}"></i>
