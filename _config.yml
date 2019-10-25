@@ -26,10 +26,13 @@ people:
 social:
   - title: twitter
     url: http://twitter.com/byemberandash
+    label: Twitter @ByEmberAndAsh
   - title: patreon
     url: https://www.patreon.com/ByEmberAndAsh
+    label: Patreon ByEmberAndAsh
   - title: itch-io
     url: https://byemberandash.itch.io/
+    label: Itch.io ByEmberAndAsh
 
 # Postal address (add as many lines as necessary)
 address:
