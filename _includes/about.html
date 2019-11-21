@@ -10,13 +10,14 @@
                     <div class="col-sm-4">
                       <div class="team-member">
                             <a href="{{ network.url }}">
-                                <h4>{{ network.label }}</h4>
-                                    <ul class="list-inline social-buttons">
-                                        <li>
-                                            <i class="fab fa-{{ network.title }}"></i>
-                                        </li>
-                                    </ul>
-                                </a>
+                                <ul class="list-inline social-buttons">
+                                    <li>
+                                        <p>{{ network.label }}</p>
+                                    <li>
+                                        <i class="fab fa-{{ network.title }}"></i>
+                                    </li>
+                                </ul>
+                            </a>
                         </div>
                     </div>
                     {% endfor %}
