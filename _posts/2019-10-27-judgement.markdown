@@ -1,6 +1,6 @@
 ---
 title: Judgement
-description: "Judgement" is a "Game of Mourning" for the game Esoteric, by Jay Dragon. Like all of Esoteric, this game should be a secret, details only existing in the memories of those who play it.
+description: 1
 cover: judgement.jpg
 link: https://byemberandash.itch.io/judgement
 platform: Itch.io
