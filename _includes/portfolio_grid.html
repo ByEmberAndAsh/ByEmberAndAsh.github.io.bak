@@ -8,12 +8,12 @@
             </div>
             {% for post in site.posts %}
                 <div class="row mt-2">
-                    <div class="col-sm-3 portfolio-item">
-                        <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                    <div class="col-sm-3 game_cover">
+                        <img src="img/portfolio/{{ post.cover }}" class="img-responsive img-centered" alt="">
                     </div>
-                    <div class="portfolio-caption">
-                            <h4>{{ post.title }}</h4>
-                            <p>{{ post.description }}</p>
+                    <div class="col-sm-9 game_details">
+                        <h4>{{ post.title }}</h4>
+                        <p>{{ post.description }}</p>
                         <p>Available for {{ post.paid }} on <a href="{{ post.link }}">{{ post.platform }}</a></p>
                     </div>
                 </div>
