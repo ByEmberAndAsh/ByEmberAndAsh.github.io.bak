@@ -379,6 +379,9 @@ section h3.section-subheading {
     margin-top: 1em;
 }
 
+#games .game_cover {
+    border: 3px solid #{{ site.data.template.color.primary }};
+
 #games .row h4 {
     margin-top: 0;
 }
