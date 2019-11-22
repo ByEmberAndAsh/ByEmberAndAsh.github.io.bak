@@ -379,7 +379,7 @@ section h3.section-subheading {
     margin-top: 1em;
 }
 
-#games .game_cover {
+#games .game_cover img {
     border: 1px solid #{{ site.data.template.color.primary }};
 
 #games .row h4 {
