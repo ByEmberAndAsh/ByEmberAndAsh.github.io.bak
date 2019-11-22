@@ -440,7 +440,7 @@ section h3.section-subheading {
 
 .team-member img {
     margin: 0 auto;
-    border: 7px solid #{{ site.data.template.color.muted }};
+    border: 7px solid #{{ site.data.template.color.primary }};
 }
 
 .team-member h4 {
