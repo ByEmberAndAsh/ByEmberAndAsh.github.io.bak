@@ -12,11 +12,11 @@
                     <div class="team-member">
                         <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
                         <h3>{{ member.name }}</h3>
-                        <ul class="list-unstyled social-buttons">
+                        <ul class="list-unstyled social-buttons text-primary">
                             {% for network in member.social %}
                             <li>
                                 <a href="{{ network.url }}">
-                                    <i class="fab fa-{{ network.title }} text-primary"></i>
+                                    <i class="fab fa-{{ network.title }}"></i>
                                 </a>
                             </li>
                             {% endfor %}
