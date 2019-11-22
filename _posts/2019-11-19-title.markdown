@@ -1,0 +1,9 @@
+---
+title: Weaver
+description: You are the Weaver. In an earlier time, when the world was only stories, you were the one who wrote them into existence. You had the entire palette of the unknown infinity to pull threads from, and the unbound existence to weave your tapestries onto. But humans have turned almost every corner, science has bounded the infinite, and stories are cherished only by children. Your power has passed. Almost. There remain the liminal spaces, the spaces in the heart alone, and the colors of dreams in the night sky. You can still weave stories into existence in this space, with these tools. Weaver is a practice of gathering experiences and using them to build a story for someone else, a future that you shape through your words. You are guided in this by engaging first with Gathering the Threads, gathering the raw components of story. Then you write your story, and either deliver it to its intended, or returned to the sky for someone unknown to you who needs it.
+cover: weaver.jpg
+link: https://byemberandash.itch.io/weaver
+platform: Itch.io
+paid: purchase
+date: 2019-11-19
+---
