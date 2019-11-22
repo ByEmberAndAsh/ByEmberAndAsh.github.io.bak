@@ -379,6 +379,10 @@ section h3.section-subheading {
     margin-top: 1em;
 }
 
+#games .row h4 {
+    margin-top: 0;
+}
+
 footer {
     padding: 25px 0;
     text-align: center;
