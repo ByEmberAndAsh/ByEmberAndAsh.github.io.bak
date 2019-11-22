@@ -362,7 +362,7 @@ section h3.section-subheading {
 
 .team-member img {
     margin: 0 auto;
-    border: 3px solid #{{ site.data.template.color.primary }};
+    border: 1px solid #{{ site.data.template.color.primary }};
 }
 
 .team-member h4 {
@@ -380,7 +380,7 @@ section h3.section-subheading {
 }
 
 #games .game_cover {
-    border: 3px solid #{{ site.data.template.color.primary }};
+    border: 1px solid #{{ site.data.template.color.primary }};
 
 #games .row h4 {
     margin-top: 0;
