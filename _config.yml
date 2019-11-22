@@ -9,18 +9,14 @@ description: "A small-press publisher for the tabletop role-playing community. S
 # Team names, titles and social links
 people:
 - name: Natalie Ash
-  pic: 1
+  pic: na
   description: Publisher
-  social:
-    - title: twitter
-      url: https://twitter.com/thenatalieash
+  twitter: thenatalieash
 
 - name: Madeleine Ember
-  pic: 2
+  pic: me
   description: Publisher
-  social:
-    - title: twitter
-      url: https://twitter.com/madeleineember
+  twitter: madeleineember
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
