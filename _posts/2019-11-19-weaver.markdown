@@ -4,6 +4,6 @@ description: You are the Weaver. In an earlier time, when the world was only sto
 cover: weaver.jpg
 link: https://byemberandash.itch.io/weaver
 platform: Itch.io
-paid: purchase
+paid: download
 date: 2019-11-19
 ---
