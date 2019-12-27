@@ -1,7 +1,7 @@
 ---
 title: Shiver
 description: The winter has been bitter and cold and starvation is already setting in, even though it is only midwinter. Search the forest for the fabled Everspring: a place where fruit is always in season and game lays at yout feet. An incursion for Trophy Dark.
-cover: shiver-cover.jpg
+cover: shivercover.jpg
 link: https://byemberandash.itch.io/shiver
 platform: Itch.io
 paid: purchase
