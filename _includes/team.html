@@ -14,7 +14,9 @@
                         <h3>
                             {{ member.name }}
                             &nbsp;
-                            <a href="https://twitter.com/{{ member.twitter }}" target="_blank"><i class="fab fa-twitter text-primary"></i></a>
+                            <a href="https://twitter.com/{{ member.twitter }}" target="_blank">
+                                <i class="fab fa-twitter text-primary"></i>
+                            </a>
                         </h3>
                         <p>{{ member.description }}</p>
                         {% for link in member.links %}
