@@ -12,6 +12,9 @@ people:
   pic: na
   description: Game designer, writer, publisher, both geek and nerd. Available for freelance game design and writing as well as layout.
   twitter: thenatalieash
+  links:
+    - url: https://thenatalieash.myportfolio.com
+      title: Layout Portfolio
 
 - name: Madeleine Ember
   pic: me
