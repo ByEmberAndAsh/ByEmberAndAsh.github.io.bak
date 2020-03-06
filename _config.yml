@@ -17,6 +17,9 @@ people:
   pic: me
   description: Illustrator, writer, collector of small rocks and strange stories. Available for freelance illustration and game writing.
   twitter: madeleineember
+  links:
+    - link: https://madeleineember.myportfolio.com
+      description: Illustration Portfolio
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
