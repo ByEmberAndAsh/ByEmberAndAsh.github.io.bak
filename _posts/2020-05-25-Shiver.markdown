@@ -1,6 +1,6 @@
 ---
 title: Isolation
-description: It's a tough life, making a living on the edges of human space.
+description: It's a tough life, making a living on the edges of human space. IN DEVELOPMENT
 cover: isolation.jpg
 itch: https://byemberandash.itch.io/isolation
 dtrpg: 
