@@ -1,6 +1,6 @@
 title: Ember + Ash TTRPG Publishing
 description: > # this means to ignore newlines until "baseurl:"
-Ember + Ash is a small-press publisher in the tabletop role-playing space located just outside Portland, OR.
+  Ember + Ash is a small-press publisher in the tabletop role-playing space located just outside Portland, OR.
 permalink: ':title/'
 baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
 url: "https://wwww.byemberandash.com" # the base hostname & protocol for your site, e.g. http://example.com
