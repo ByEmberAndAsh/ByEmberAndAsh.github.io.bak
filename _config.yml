@@ -1,46 +1,37 @@
-url: https://www.byemberandash.com
-baseurl: /
-# Site settings
-title: Ember + Ash
-email: natalie@byemberandash.com
-description: "A small-press publisher for the tabletop role-playing community. Started by 2 uppity rpg nerds who love to make stuff. (Just Outside) Portland, OR"
+title: Hello, world! I'm David Freeman
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+permalink: ':title/'
+baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
 
+# Author Settings
+author: David Freeman # add your name
+author-img: david-freeman.jpg # add your photo
+about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+social-twitter: # add your Twitter handle
+social-facebook: # add your Facebook handle
+social-github: artemsheludko # add your Github handle
+social-linkedin: # add your Linkedin handle
+social-email: # add your Email address
 
-# Team names, titles and social links
-people:
-- name: Natalie Ash
-  pic: na
-  description: Game designer, writer, publisher, both geek and nerd. Available for freelance game design and writing as well as layout.
-  twitter: thenatalieash
-  links:
-    - url: https://thenatalieash.myportfolio.com
-      title: Layout Portfolio
+# Disqus
+discus-identifier: mr-brown # add your discus identifier
 
-- name: Madeleine Ember
-  pic: me
-  description: Illustrator, writer, collector of small rocks and strange stories. Available for freelance illustration and game writing.
-  twitter: madeleineember
-  links:
-    - url: https://madeleineember.myportfolio.com
-      title: Illustration Portfolio
+# Tracker
+analytics: # Google Analytics
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/byemberandash
-    label: Twitter @ByEmberAndAsh
-  - title: patreon
-    url: https://www.patreon.com/ByEmberAndAsh
-    label: Patreon ByEmberAndAsh
-  - title: itch-io
-    url: https://byemberandash.itch.io/
-    label: Itch.io ByEmberAndAsh
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: Portland, OR
-
-# Build settings
+# Build Settings
 markdown: kramdown
-permalink: pretty
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
 
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
